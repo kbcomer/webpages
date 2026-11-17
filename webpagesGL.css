@@ -1,0 +1,22 @@
+/*
+ *Name: Kaleb Comer
+ *UnityID: kbcomer
+ *Date: 11/17/2026
+ *Assignment: Guided Lab 4
+ *Description: Guided Lab Assignment, about me CSS
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #FF0000
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
